@@ -2,6 +2,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: rgb(27, 115, 27);
 }
 .hhImg{
     width: 90%;
