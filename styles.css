@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hhImg{
+    width: 90%;
+    height: 90%;
+    object-fit: cover;
+   
+}
